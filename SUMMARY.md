@@ -1,3 +1,3 @@
 # Table of contents
 
-* [My GitHub Test Project](README.md)
+* [Gitbook Test cases](README.md)

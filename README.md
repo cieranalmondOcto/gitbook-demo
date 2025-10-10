@@ -1,4 +1,4 @@
-# My GitHub Test Project
+# Gitbook Test cases
 
 Welcome to the **GitHub Test Project**!&#x20;
 
@@ -9,7 +9,7 @@ I am submitting a change request within Gitbooks
 Test cases
 
 * Check Sync from Gitbook to Github ✅
-* Check approval workflow for Gitbook > Github
+* Check approval workflow from within Gitbook, that syncs to Github. Set myself as the approver.
 * Check approval workflow for Gitbook > Github using Slack approval
 * As a reviewer, make comments on any changes during the review process[\
   ](https://emojiterra.com/white-heavy-check-mark/)
