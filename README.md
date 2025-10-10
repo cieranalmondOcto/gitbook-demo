@@ -2,7 +2,7 @@
 
 Welcome to the **GitHub Test Project**!&#x20;
 
-I am submitting a change request within Gitbooks
+I am submitting a change request within Gitbooks from Github
 
 ## &#x20;🧪  Changes made in Gitbooks
 
@@ -12,8 +12,7 @@ Test cases
 * Check approval workflow from within Gitbook, that syncs to Github. Set myself as the approver. ✅
 * Check approval workflow for Gitbook > Github using Slack approval
 * Check approval workflow for Gitbook > Github using Email approval ✅
-* As a reviewer, make comments on any changes during the review process[\
-  ](https://emojiterra.com/white-heavy-check-mark/)
+* As a reviewer, make comments on any changes during the review process
 
 ## 🧪  Changes made in Github
 
