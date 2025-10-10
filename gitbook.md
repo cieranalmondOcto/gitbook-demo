@@ -1,14 +1,21 @@
 # My GitHub Test Project
 
-Welcome to the **GitHub Test Project**! This is a simple repository created to test Markdown formatting, GitHub features, and collaboration workflows.]
+Welcome to the **GitHub Test Project**!&#x20;
 
-changes are being made in Gitbook
+## &#x20;🧪  Changes made in Gitbooks
 
-## 📁 Project Structure
+Test cases
 
-## 🛠️ Features
+* Check Sync from Gitbook to Github ✅
+* Check approval workflow for Gitbook > Github
+* Check approval workflow for Gitbook > Github using Slack approval[\
+  ](https://emojiterra.com/white-heavy-check-mark/)
 
-* ✅ Simple project setup
-* 📝 Markdown testing
-* 🧪 Code versioning practice
-* 🤝 GitHub collaboration workflow
+## 🧪  Changes made in Github
+
+Test cases
+
+* Check Sync from Gitbook to Github ✅
+* Check approval request within Github > Gitbook using Slack approval
+* Review change logs to ensure changes and reviews are present in Github logs
+
