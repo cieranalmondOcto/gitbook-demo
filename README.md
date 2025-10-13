@@ -2,8 +2,6 @@
 
 Welcome to the **GitHub Test Project**!&#x20;
 
-I am submitting a change request within Gitbooks from Github
-
 ## &#x20;🧪  Changes made in Gitbooks
 
 Test cases
@@ -19,9 +17,9 @@ Test cases
 Test cases
 
 * Check Sync from Gitbook to Github ✅
-* Check approval request within Github > Gitbook using Slack approval
-* Review change logs to ensure changes and reviews are present in Github logs
+* Check approval request within Github > Gitbook 
+* Review change logs to ensure changes and reviews are present in Github logs ✅
 
 ## 🧪  Other Test-cases
 
-what else can we add? see if this commits 
+what else can we add? 
