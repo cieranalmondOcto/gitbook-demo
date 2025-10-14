@@ -11,6 +11,7 @@ Test cases
 * Check approval workflow for Gitbook > Github using Slack approval
 * Check approval workflow for Gitbook > Github using Email approval ✅
 * As a reviewer, make comments on any changes during the review process ✅
+* As a reviewer, test to see if comments appear within Github activity
 
 ## 🧪 Changes made in Github
 
