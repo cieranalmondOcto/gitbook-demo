@@ -14,6 +14,7 @@ Test cases
 * As a reviewer, test to see if comments appear within Github activity ✅
 
 
+bla  bla changes with nick 
 
 bla bla changes
 
