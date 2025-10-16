@@ -13,8 +13,11 @@ Test cases
 * As a reviewer, make comments on any changes during the review process ✅
 * As a reviewer, test to see if comments appear within Github activity ✅
 
+bla bla changes with nick
 
-bla  bla changes with nick 
+make hte changes
+
+
 
 bla bla changes
 
